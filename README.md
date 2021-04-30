@@ -1,9 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/ivangeier/Hash-Game?style=for-the-badge)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivangeier&theme=blue-green)
-
-
-
 # Jogo da Velha | Hash Game
 
 A game application developed during my JavaScript studies with @progbr
