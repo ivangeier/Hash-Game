@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/ivangeier/Hash-Game?style=for-the-badge)
 
-[](https://github-readme-stats.vercel.app/api/top-langs/?username={ivangeier}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={ivangeier}&theme=blue-green)
 
 
 
